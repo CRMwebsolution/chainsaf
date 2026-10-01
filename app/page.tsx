@@ -67,11 +67,11 @@ export default function HomePage() {
 
     <section id="questions" className="section faq-section">
       <div className="container faq-grid"><div><p className="eyebrow">A FEW GOOD QUESTIONS</p><h2>Know before<br />you haul.</h2><p>Still have a question?<br /><a className="text-link" href="tel:+15122478795">Call Tony: (512) 247-8795</a></p></div><div className="faq-list">
-        <details><summary>Does it work with ratchet straps?<span aria-hidden="true">+</span></summary><p>Yes. ChainSaf’s current product information says the system is designed for both chains and ratchet straps. Confirm the box size and appropriate rating for your setup with Tony.</p></details>
-        <details><summary>Can I install it myself?<span aria-hidden="true">+</span></summary><p>Most uses require welding the box to the trailer frame. The company notes that some light-duty applications may allow bolting. Ask for the installation requirements for your exact trailer before making changes.</p></details>
-        <details><summary>How much weight can it handle?<span aria-hidden="true">+</span></summary><p>Ask ChainSaf for the rated working load limit for the exact product and mounting method. The strength-test figure on the current website is not a trailer payload or a published working load limit.</p></details>
-        <details><summary>What maintenance is needed?<span aria-hidden="true">+</span></summary><p>The company recommends rinsing the boxes when sand or gravel builds up. Follow the product’s care and inspection instructions.</p></details>
-        <details><summary>How do I buy ChainSaf?<span aria-hidden="true">+</span></summary><p>Contact Tony to confirm sizes, rated limits, current pricing, and installation requirements, then arrange your order directly with the business.</p><a className="text-link" href="#contact">Prepare a product inquiry</a></details>
+        <details><summary>Does it work with ratchet straps?<span aria-hidden="true">+</span></summary><p>Yes. Our boxes are designed for both chains and ratchet straps. We can help you choose the right size and confirm the rated limit for your setup.</p></details>
+        <details><summary>Can I install it myself?<span aria-hidden="true">+</span></summary><p>Most installations require welding the box to your trailer’s frame. Some light-duty setups may allow bolting. Give us a call before you get started so we can go over the right installation method for your trailer.</p></details>
+        <details><summary>How much weight can it handle?<span aria-hidden="true">+</span></summary><p>We’ll help you confirm the rated working load limit for your box and installation. Tell us about your trailer and what you haul so we can go over the right setup before you order.</p></details>
+        <details><summary>What maintenance is needed?<span aria-hidden="true">+</span></summary><p>Rinse out any sand or gravel that collects in the boxes. If you have questions about care or inspection, give us a call.</p></details>
+        <details><summary>How do I buy ChainSaf?<span aria-hidden="true">+</span></summary><p>Call Tony or prepare an inquiry below. We’ll go over sizes, rated limits, pricing, and installation with you, then help you get your order started.</p><a className="text-link" href="#contact">Prepare a product inquiry</a></details>
       </div></div>
     </section>
 

@@ -2,7 +2,7 @@
 
 ## Scope
 
-This is an independent concept made at the user's request, not a commissioned or official website. It is a static, mobile-responsive product page with clear inquiry and direct contact paths. It has no checkout, database, CRM, or automated outgoing email.
+This is an independent concept made at the user's request, not a commissioned or official website. It is a mobile-responsive Next.js product page with clear inquiry and direct contact paths. It has no checkout, database, CRM, or automated outgoing email.
 
 The inquiry form creates a local email draft. Nothing is transmitted until a visitor deliberately opens their email app and sends the message. Calls and direct email links use the contact details published on the current official website.
 
